@@ -77,13 +77,13 @@ Bu oyun HUJAM icin Kirlangic Ekibi tarafindan yapilmistir.
 
 Kodlama Ekibi:
 
-Gurkan Gur
-Fatih Kutki
+Gurkan Gur,
+Fatih Kutki,
 Mert Cincinoglu
 
 Ses ve Tasarım(Modelleme) Ekibi:
 
-Musa Mert Oz
+Musa Mert Oz,
 Muhammed Sahin
 
 
